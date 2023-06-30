@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/307f2a57c659495f800d917fb0c8e48d/artifacts
+end_time: 1687959200971
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 307f2a57c659495f800d917fb0c8e48d
+run_name: Dummy Classifier
+run_uuid: 307f2a57c659495f800d917fb0c8e48d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959200842
+status: 3
+tags: []
+user_id: Rajat

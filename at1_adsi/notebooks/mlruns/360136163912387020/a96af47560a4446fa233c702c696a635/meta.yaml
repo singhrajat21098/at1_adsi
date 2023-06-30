@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/a96af47560a4446fa233c702c696a635/artifacts
+end_time: 1687959260848
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: a96af47560a4446fa233c702c696a635
+run_name: Ridge Classifier
+run_uuid: a96af47560a4446fa233c702c696a635
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959260715
+status: 3
+tags: []
+user_id: Rajat

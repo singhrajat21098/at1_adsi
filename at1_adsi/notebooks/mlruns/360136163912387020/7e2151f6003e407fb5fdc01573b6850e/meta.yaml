@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/7e2151f6003e407fb5fdc01573b6850e/artifacts
+end_time: 1687959201610
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 7e2151f6003e407fb5fdc01573b6850e
+run_name: Random Forest Classifier
+run_uuid: 7e2151f6003e407fb5fdc01573b6850e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959201464
+status: 3
+tags: []
+user_id: Rajat

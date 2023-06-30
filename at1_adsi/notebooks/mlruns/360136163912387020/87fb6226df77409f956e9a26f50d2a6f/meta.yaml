@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/87fb6226df77409f956e9a26f50d2a6f/artifacts
+end_time: 1687959260644
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 87fb6226df77409f956e9a26f50d2a6f
+run_name: Linear Discriminant Analysis
+run_uuid: 87fb6226df77409f956e9a26f50d2a6f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959260403
+status: 3
+tags: []
+user_id: Rajat

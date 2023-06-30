@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/4f08842611fd46809a84b9f8c7691812/artifacts
+end_time: 1687959262622
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 4f08842611fd46809a84b9f8c7691812
+run_name: K Neighbors Classifier
+run_uuid: 4f08842611fd46809a84b9f8c7691812
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959262485
+status: 3
+tags: []
+user_id: Rajat

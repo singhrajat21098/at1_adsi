@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/ba6a6e19691a437dab812cd551821c9f/artifacts
+end_time: 1687959261530
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: ba6a6e19691a437dab812cd551821c9f
+run_name: Extra Trees Classifier
+run_uuid: ba6a6e19691a437dab812cd551821c9f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959261366
+status: 3
+tags: []
+user_id: Rajat

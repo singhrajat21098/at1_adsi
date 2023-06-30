@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/d5f1e0aca6a9440290bc9e3c64566609/artifacts
+end_time: 1687959262821
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: d5f1e0aca6a9440290bc9e3c64566609
+run_name: Quadratic Discriminant Analysis
+run_uuid: d5f1e0aca6a9440290bc9e3c64566609
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959262692
+status: 3
+tags: []
+user_id: Rajat

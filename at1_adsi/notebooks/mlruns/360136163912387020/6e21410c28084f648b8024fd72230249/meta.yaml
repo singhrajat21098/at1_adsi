@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/6e21410c28084f648b8024fd72230249/artifacts
+end_time: 1687959202706
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 6e21410c28084f648b8024fd72230249
+run_name: SVM - Linear Kernel
+run_uuid: 6e21410c28084f648b8024fd72230249
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959202542
+status: 3
+tags: []
+user_id: Rajat

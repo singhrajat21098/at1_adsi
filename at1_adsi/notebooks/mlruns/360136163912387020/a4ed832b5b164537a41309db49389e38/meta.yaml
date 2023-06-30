@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/a4ed832b5b164537a41309db49389e38/artifacts
+end_time: 1687959261077
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: a4ed832b5b164537a41309db49389e38
+run_name: Logistic Regression
+run_uuid: a4ed832b5b164537a41309db49389e38
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959260915
+status: 3
+tags: []
+user_id: Rajat

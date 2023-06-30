@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/b0120bab6229487b9bc19de73ca7fc7f/artifacts
+end_time: 1687959262201
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: b0120bab6229487b9bc19de73ca7fc7f
+run_name: Ada Boost Classifier
+run_uuid: b0120bab6229487b9bc19de73ca7fc7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959262062
+status: 3
+tags: []
+user_id: Rajat

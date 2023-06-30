@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/502e2d465ab44b438b12792f9bdc3a7b/artifacts
+end_time: 1687959261765
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 502e2d465ab44b438b12792f9bdc3a7b
+run_name: Gradient Boosting Classifier
+run_uuid: 502e2d465ab44b438b12792f9bdc3a7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959261602
+status: 3
+tags: []
+user_id: Rajat

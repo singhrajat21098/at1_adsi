@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/2ddd328ec9e94075816a8743159b8c6b/artifacts
+end_time: 1687959263498
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 2ddd328ec9e94075816a8743159b8c6b
+run_name: Naive Bayes
+run_uuid: 2ddd328ec9e94075816a8743159b8c6b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959263347
+status: 3
+tags: []
+user_id: Rajat

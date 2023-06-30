@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Academic/UTS/ADSI/adsi_at1/at1_adsi/at1_adsi/notebooks/mlruns/360136163912387020/20dc6badae7f4061ab36eae10913b8d8/artifacts
+end_time: 1687959202062
+entry_point_name: ''
+experiment_id: '360136163912387020'
+lifecycle_stage: active
+run_id: 20dc6badae7f4061ab36eae10913b8d8
+run_name: Light Gradient Boosting Machine
+run_uuid: 20dc6badae7f4061ab36eae10913b8d8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1687959201881
+status: 3
+tags: []
+user_id: Rajat
